@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cvarov.github.io/SKg/sitemap.SKg.gz
